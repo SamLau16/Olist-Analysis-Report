@@ -29,3 +29,4 @@ Power BI - Dashboard
 
 ## Reference & Link
 * [Data Source](https://drive.google.com/file/d/1bLwp3KmwvQHB2ucquErlkayI8yCEvmO9/view)
+* [PPT](https://docs.google.com/presentation/d/1flwAc-OF6ZaTdXyQUbf3S_JWUx4EMuYN/edit?usp=sharing&ouid=116237146050542863155&rtpof=true&sd=true)
